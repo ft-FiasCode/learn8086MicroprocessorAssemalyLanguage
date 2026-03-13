@@ -467,6 +467,8 @@ This project is open-source and free to use, modify, and distribute.
 ⭐ If you found this project useful, consider **starring the repository**!
 
 ![Author](https://img.shields.io/badge/Author-ft--FiasCode-blue?style=flat&logo=github)
+
+
 Made with ❤️ by [ft-FiasCode](https://github.com/ft-FiasCode)
 
 </div>
